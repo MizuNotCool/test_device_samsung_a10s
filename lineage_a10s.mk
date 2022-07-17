@@ -15,7 +15,7 @@
 #
 
 # Inherit from device
-$(call inherit-product, device/Samsung/a10s/device.mk)
+$(call inherit-product, device/samsung/a10s/device.mk)
 
 # Inherit some common Lineage stuff.
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
